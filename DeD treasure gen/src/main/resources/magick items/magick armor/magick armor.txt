@@ -1,0 +1,7 @@
+1-2 Armatura, +2 mezza armatura
+3-4 Armatura, +2 completa
+5-6 Armatura, +3 cuoio borchiato
+7-8 Armatura, +3 piastre
+9-10 Armatura, +3 strisce
+11 Armatura, +3 mezza armatura
+12 Armatura, +3 completa

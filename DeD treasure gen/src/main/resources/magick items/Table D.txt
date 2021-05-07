@@ -1,0 +1,16 @@
+01-20 Pozione di guarigione suprema
+21-30 Pozione dell'invisibilità
+31-40 Pozione della velocità
+41-50 Pergamena magica (6 ° livello)
+51-57 Pergamena magica (7 ° livello)
+58-62 Munizioni, +3
+63-67 Olio di nitidezza
+68-72 Pozione di volo
+73-77 Pozione della forza del gigante delle nuvole
+78-82 Pozione della longevità
+83-87 Pozione di vitalità
+88-92 Pergamena magica (8 ° livello I)
+93-95 Ferri di cavallo dello zefiro
+96-98 I meravigliosi pigmenti di Nolzur
+99 Borsa divorante
+00 Buco portatile

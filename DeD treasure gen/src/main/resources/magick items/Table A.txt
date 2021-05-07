@@ -1,0 +1,8 @@
+01-50 Pozione di guarigione
+51-60 Pergamena magica (cantrip)
+61-70 Pozione di arrampicata
+71-90 Pergamena magica (1 ° livello)
+91-94 Pergamena magica (2 ° livello)
+95-98 Pozione di guarigione maggiore
+99 Borsa da viaggio
+00 Globo fluttuante

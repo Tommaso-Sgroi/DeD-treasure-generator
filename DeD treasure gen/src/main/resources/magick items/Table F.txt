@@ -1,0 +1,60 @@
+01-15 Arma, + 1
+16-18 Scudo, + 1
+19-21 Sentine! scudo
+22-23 Amuleto di prova contro il rilevamento e la posizione
+24-25 Stivali del genere elfico
+26-27 Stivali del passo e del balzo
+28-29 Bracciali del tiro con l'arco
+30-31 Spilla di scudo
+32-33 Scopa offesa
+34-35 Mantello del genere elfico
+36-37 Mantello di protezione
+38-39 Guanti del potere degli orchi
+40-41 Cappello da travestimento
+42-43 Giavellotto di fulmini
+44-45 Perla del potere
+46-47 Bastone del custode del patto, + 1
+48-49 Pantofole di ragno rampicante
+50-51 Bastone del sommatore
+52-53 Bastone del pitone
+54-55 Spada della vendetta
+56-57 Trident of fish command
+58-59 Wand of magie missili
+60-61 Bacchetta del mago della guerra, + 1
+62-63 Bacchetta di ragnatela
+64-65 Arma di avvertimento
+66 Armatura adamantina (cotta di maglia)
+67 Armatura adamantina (maglia a catena)
+68 Armatura adamantina (cotta di maglia)
+69 Borsa dei trucchi (grigia)
+70 Borsa di trucchi (ruggine)
+71 Borsa di trucchi (marrone chiaro)
+72 Stivali delle Terre dell'Inverno
+73 Cerchietto di sabbiatura
+74 Mazzo di illusioni
+75 Bottiglia per fumatori
+76 Occhi affascinanti
+77 Occhi dell'aquila
+78 Statuetta del potere meraviglioso (corvo d'argento)
+79 Gemma di luminosità
+80 Guanti di missile snaring
+81 Guanti da nuoto e da arrampicata
+82 Guanti del furto
+83 Fascia dell'intelletto
+84 Elmo della telepatia
+85 Strumento dei bardi (Doss Iute)
+86 Strumento dei bardi (Fochlucan bandore)
+87 Strumento dei bardi (cetra di Mac-Fuimidh)
+88 Medaglione di pensieri
+89 Collana di adattamento
+90 Periapt di chiusura della ferita
+91 Tubi di caccia
+92 Pi pes delle fogne
+93 Anello di salto
+94 Anello di schermatura mentale
+95 Anello di calore
+96 Anello d'acqua che cammina
+97 Faretra di Ehlonna
+98 Pietra di buona fortuna
+99 Ventilatore del vento
+00 Stivali alati

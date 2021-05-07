@@ -1,0 +1,94 @@
+01-11 Arma, +2
+54 Pietra di Loun (sostentamento)
+12-14 Statuetta del potere meraviglioso (tira d8) tabella statuine
+55 bande di ferro del Bilarro
+1 grifone di bronzo
+56 Armatura, + 1 cuoio
+2 Vola in ebano
+57 Armatura della resistenza (cuoio)
+3 leoni d'oro
+58 Mazza di interruzione
+4 capre avorio
+59 Mazza di percosse
+5 Elefante in marmo
+60 Mazza del terrore
+6-7 Cane onice
+61 Mantello della resistenza agli incantesimi
+8 Serpentine gufo
+62 Collana di grani di preghiera
+15 armatura Adamantina (corazza)
+63 Peri apt di prova contro il veleno
+16 armatura Adamantina (stecca)
+64 Anello di influenza animale
+17 Amuleto della salute
+65 Anello di evasione
+18 Armatura della vulnerabilità
+66 Anello di piuma che cade
+19 Scudo che cattura le frecce
+67 Anello di azione gratuita
+20 Cintura di razza nanica
+68 Anello di protezione
+21 Cintura della forza dei giganti delle colline
+69 Anello di resistenza
+22 Ascia Berserker
+70 Anello di conservazione degli incantesimi
+23 Stivali di levitazione
+71 Anello dell'ariete
+24 stivali di velocità
+72 Anello di visione a raggi X.
+25 Ciotola di comandanti elementali dell'acqua
+73 Tunica degli occhi
+26 Bracciali della difesa
+74 Verga del governo
+27 Braciere di comandanti elementali del fuoco
+75 Verga del custode del patto, +2
+28 Capo del saltimbanco
+76 Corda di impigliamento
+29 Incensiere per il controllo degli elementali dell'aria
+77 Armatura, +1 posta in scala
+30 armatura, +1 cotta di maglia
+78 Armatura della resistenza (cotta di maglia)
+31 Armatura della resistenza (cotta di maglia)
+79 Scudo, +2
+32 Armatura, + 1 maglia a catena
+80 Scudo di attrazione missilistica
+33 Armatura della resistenza (maglia a catena)
+81 Personale di charme
+34 Mantello dello spostamento
+82 Personale di guarigione
+35 Mantello del pipistrello
+83 Personale di sciami di insetti
+36 Cube afforce
+84 Personale dei boschi
+37 La fortezza istantanea di Daern
+85 Bastone di appassimento
+38 Pugnale di veleno
+86 Pietra del controllo degli elementali della terra
+39 Grilli dimensionali
+87 Lama solare
+40 Uccisore di draghi
+88 Spada della vita che ruba
+41 Catena elfica
+89 Spada ferita
+42 Lingua di fiamma
+90 Asta per tentacoli
+43 Gemma della vista
+91 Arma viziosa
+44 Uccisore di giganti
+92 Bacchetta di rilegatura
+45 Armatura in pelle borchiata
+93 Bacchetta di rilevamento nemico
+46 Elmo del teletrasporto
+94 Bacchetta della paura
+47 Corno di brillamento
+95 Bacchetta di palle di fuoco
+48 Corno di Valhalla (argento o ottone)
+96 Bacchetta di fulmini
+49 Strumento dei bardi (mandolino Canaith)
+97 Bacchetta di paralisi
+50 Strumento dei bardi (Cii lyre)
+98 Bacchetta del mago della guerra, +2
+51 Pietra di Loun (consapevolezza)
+99 Bacchetta magica
+52 Pietra di Loun (protezione)
+00 Ali di volo

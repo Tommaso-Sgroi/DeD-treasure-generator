@@ -1,0 +1,28 @@
+01-15 Pozione di guarigione superiore
+16-22 Speli scroll (4 ° livello)
+23-27 Munizioni, +2
+28-32 Pozione di chiaroveggenza
+33-37 Pozione di diminuzione
+38-42 Pozione di forma gassosa
+43-47 Potere della forza del gigante del gelo
+48-52 Pozione della forza del gigante di pietra
+53-57 Pozione dell'eroismo
+58-62 Pozione di invulnerabilità
+63-67 Pozione di lettura della mente
+68-72 Speli scroli (5 ° livello)
+73-75 Elisir di salute
+76-78 Olio di eterea
+79-81 Pozione della forza del gigante di fuoco
+82-84 Piuma di Quaal
+85-87 Pergamena di protezione
+88-89 Sacco di fagioli
+90-91 Perlina di forza
+92 Campanello d'apertura
+93 Decanter di acqua infinita
+94 Il pratico zaino di Heward
+95 Periapt di salute
+96 Invio di pietre
+97 Occhi di minuto che vedono
+98 Barca pieghevole
+99 Ferri di cavallo della velocità
+00 Collana di palle di fuoco

@@ -1,0 +1,53 @@
+01-05 Difensiva
+06-10 Martello dei fulmini
+11-15 Lama della fortuna
+16-20 Spada di risposta
+21-23 Santo vendicatore
+24-26 Anello dell'evocazione dei djinni
+27-29 Anello dell'invisibilità
+30-32 Anello dell'incantesimo che gira
+33-35 Verga del potere signore
+36-38 Bastone dei magi
+39-41 Spada Vorpal
+42-43 Cintura della forza del gigante delle nuvole
+44-45 Armatura, +2 corazza
+46-47 Armatura, +3 cotta di maglia
+48-49 Armatura, +3 maglia a catena
+50-51 Mantello dell'invisibilità
+52-53 Sfera di cristallo (versione leggendaria)
+54-55 Armatura, + 1 mezza piastra
+56-57 Fiaschetta di ferro
+58-59 Armatura, +3 cuoio
+60-61 Armatura, +1 piastra
+62-63 Tonaca dell'Arcimago
+64-65 Verga della risurrezione
+66-67 Armatura, +1 posta in scala
+68-69 Scarabeo di protezione
+70-71 Armatura, +2 stecca
+72-73 Armatura, +2 cuoio borchiato
+74-75 Bene di molti mondi
+76 Armatura magica d12 magik armor
+77 Apparato di Kwalish
+78 Armatura dell'invulnerabilità
+79 Cintura della forza del gigante della tempesta
+80 Cancello cubico
+81 Mazzo di molte cose
+82 Catena Efreeti
+83 Armatura di resistenza (mezza piastra)
+84 Corno di Valhalla (ferro)
+85 Strumento dei bardi (arpa OIIamh)
+86 loun stone (maggiore assorbimento)
+87 loun stone (maestria)
+88 loun stone (rigenerazione)
+89 Armatura a piastre dell'eterea
+90 Armatura a piastre di resistenza
+91 Anello di comando elementale dell'aria
+92 Anello di comando elementale della terra
+93 Comando elementale Anello di fuoco
+94 Anello dei tre desideri
+95 Anello di comando elementale dell'acqua
+96 Sfera di annientamento
+97 Talismano di puro bene
+98 Talismano della sfera
+99 Talismano del male assoluto
+00 Tomo della lingua essiccata

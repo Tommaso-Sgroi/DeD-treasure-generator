@@ -1,0 +1,35 @@
+01-15 Pozione di maggiore guarigione
+16-22 Pozione soffio di fuoco
+23-29 Pozione di resistenza
+30-34 Munizione +1
+35-39 Pozione di amicizia animai
+40-44 Pozione della forza del gigante delle colline
+45-49 Pozione di crescita
+50-54 Pozione di respirazione acquatica
+55-59 Pergamena magica (2 ° livello)
+60-64 Pergamena magica (3 ° livello)
+65-67 Borsa da viaggio
+68-70 Unguento di Keoghtom
+71-73 Olio di scivolosità
+74-75 Polvere di scomparsa
+76-77 Polvere di secchezza
+78-79 Polvere di starnuti e soffocamento
+80-81 Gemma elementale
+82-83 Filtratore d'amore
+84 Giara alchemica
+85 Tappo di respirazione dell'acqua
+86 Mantello della manta
+87 Globo fluttunate
+88 Occhiali della notte
+89 Elmo della comprensione delle lingue
+90 Verga amovibile
+91 Lanterna di rivelazione
+92 Armatura da marinaio
+93 Armatura Mithral
+94 Pozione di veleno
+95 Anello di nuoto
+96 Tunica di oggetti utili
+97 Corda di arrampicata
+98 Sella del cavaliere
+99 Bacchetta magica di rilevamento
+00 Bacchetta dei segreti

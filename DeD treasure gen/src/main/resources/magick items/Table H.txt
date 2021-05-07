@@ -1,0 +1,69 @@
+01-10 Arma, +3
+11-12 Amuleto degli aerei
+13-14 Tappeto volante
+15-16 Sfera di cristallo (versione molto rara)
+17-18 Anello di rigenerazione
+19-20 Anello delle stelle cadenti
+21-22 Anello di telecinesi
+23-24 Veste dai colori scintillanti
+25-26 Abito di stelle
+27-28 Asta di assorbimento
+29-30 Bastone della vigilanza
+31-32 Verga di sicurezza
+33-34 Verga del custode del patto, +3
+35-36 Scimitarra della velocità
+37-38 Scudo, +3
+39-40 Bastone di fuoco
+41-42 Bastone del gelo
+43-44 Personale del potere
+45-46 Bastone di sciopero
+47-48 Bastone di tuoni e fulmini
+49-50 Spada affilata
+51-52 Bacchetta di polimorfo
+53-54 Bacchetta del mago della guerra, +3
+55 armatura Adamantina (mezzo piatto)
+56 armatura Adamantina (piastra)
+57 Scudo animato
+58 Cintura di fuoco gigante forza
+59 Cintura di gelo (o pietra) forza gigante
+60 Armatura, + 1 pettorale
+61 Armatura della resistenza (corazza)
+62 Candela di invocazione
+63 Armatura, +2 cotta di maglia
+64 Armatura, +2 maglia a catena
+65 Mantello di aracnida
+66 Spada danzante
+67 Armatura demoniaca
+68 Cotta di scaglie di drago
+69 Piatto nanico
+70 Lanciatore nanico
+71 Bottiglia Efreeti
+72 Statuetta del meraviglioso potere (destriero di ossidiana)
+73 Marchio Frost
+74 Elmo della brillantezza
+75 Horn ofValhalla (bronzo)
+76 Strumento dei bardi (arpa di Anstruth)
+77 loun stone (assorbimento)
+78 loun stone (agilità)
+79 loun stone (fortezza)
+80 loun stone (intuizione)
+81 loun stone (intelletto)
+82 loun stone (leadership)
+83 loun stone (forza)
+84 Armatura, +2 cuoio
+85 Manuale di salute corporea
+86 Manuale di esercizio lucrativo
+87 Manuale dei golem
+88 Manuale di rapidità d'azione
+89 Specchio della trappola della vita
+90 Nove ladri di lire
+91 Arco del giuramento
+92 Armatura, +2 scaglie di posta
+93 Scudo della guardia magica
+94 Armatura, + 1 stecca
+95 Armatura di resistenza (stecca)
+96 Armatura, + 1 cuoio borchiato
+97 Armatura della resistenza (pelle borchiata)
+98 Tomo di pensiero chiaro
+99 Tomo della leadership e dell'influenza
+0 Tomo della comprensione

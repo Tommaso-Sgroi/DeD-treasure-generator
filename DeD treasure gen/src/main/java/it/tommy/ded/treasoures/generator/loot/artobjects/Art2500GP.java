@@ -1,0 +1,31 @@
+package it.tommy.ded.treasoures.generator.loot.artobjects;
+
+import it.tommy.ded.treasoures.generator.loot.GemsArt;
+
+public enum Art2500GP implements GemsArt {
+    CATENA_FINE_IN_ORO_CON_OPALE_DI_FUOCO("CATENA FINE IN ORO CON OPALE DI FUOCO"),
+    DIPINTO_ANTICO_CAPOLAVORO("DIPINTO ANTICO CAPOLAVORO"),
+    RICAMO_IN_SETA_E_MANTELLO_IN_VELLUTO_CON_NUMEROSE_SELENITI("RICAMO IN SETA E MANTELLO IN VELLUTO CON NUMEROSE SELENITI"),
+    BRACCIALE_IN_PLATINO_CON_UNO_ZAFFIRO_INCASTONATO("BRACCIALE IN PLATINO CON UNO ZAFFIRO INCASTONATO"),
+    CAVIGLIERA_INGIOIELLATA("CAVIGLIERA INGIOIELLATA"),
+    CARILLON_D_ORO("CARILLON D'ORO"),
+    DIADEMA_IN_ORO_CON_QUATTRO_ACQUEMARINE("DIADEMA IN ORO CON QUATTRO ACQUEMARINE"),
+    BENDA_SULL_OCCHIO_CON_UN_FINTO_OCCHIO_INCASTONATO_IN_ZAFFIRO_BLU_E_PIETRA_DI_LUNA("BENDA SULL'OCCHIO CON UN FINTO OCCHIO INCASTONATO IN ZAFFIRO BLU E PIETRA DI LUNA"),
+    UNA_COLLANA_DI_PERLE_ROSA_PICCOLE("UNA COLLANA DI PERLE ROSA PICCOLE"),
+    GUANTO_RICAMATO_CON_SCAGLIE_DI_GIOIELLI("GUANTO RICAMATO CON SCAGLIE DI GIOIELLI");
+
+
+    private final String descrizione;
+    private final static int GP = 2500;
+    Art2500GP(String descrizione) {
+        this.descrizione = descrizione;
+    }
+
+    public String getDescrizione(){return descrizione;}
+    public int getGp(){return GP;}
+
+    @Override
+    public String toString() {
+        return GP + ": "+descrizione;
+    }
+}
